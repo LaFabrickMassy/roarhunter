@@ -11,10 +11,10 @@ L'appareil permet également d'établir des kpi du niveau de bruit au cours du t
 
 ## Naming
 Propositions de nommage
-- RoarHunter
-- Peacemaker
-- Chuuuuut!
-- Alticlap
+- **RoarHunter** Litteralement le chasseur de rugissement
+- **Peacemaker** Le pacificateur
+- **Chuuuuut!** 
+- **Alticlap** Référence au clap de cinéma qui réclame le silence sur le plateau, "alti" car placé en hauteur dans la pièce. Peut aussi être compris comme la transcription phonétique d'une interjection en langue allemande, qui est une invitation au silence.
 
 
 
