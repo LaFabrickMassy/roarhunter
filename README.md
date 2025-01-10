@@ -14,7 +14,7 @@ Propositions de nommage
 - RoarHunter
 - Peacemaker
 - Chuuuuut!
-- Alticlape
+- Alticlap
 
 
 
